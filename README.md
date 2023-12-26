@@ -1,4 +1,4 @@
-> [!ABOUT]
+> # ABOUT
 > An official website for me...
 
 3 Years ago, no updates from nc-profile-card. Now it's time to upgrade it.
