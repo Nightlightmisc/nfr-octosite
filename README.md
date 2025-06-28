@@ -1,7 +1,7 @@
 > # ABOUT
-> An official website for me...
+> Truly an official profile card for me. (will change it later)
 
-3 Years ago, no updates from nc-profile-card. Now it's time to upgrade it.
+3 Years ago, no updates.
 
 > [!WARNING]
-> All these files is taken from [this repository](https://github.com/NightForRain/nc-profile-card) with a lot of modification.
+> All these files are taken from [this repository](https://github.com/NightForRain/nc-profile-card) with a lot of modification.(to be honest, it is not.)
