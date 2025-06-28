@@ -4,4 +4,4 @@
 Three years ago, no updates. Perhaps it will be as good as others. 
 
 > [!WARNING]
-> All these files are taken from [this repository](https://github.com/NightForRain/nc-profile-card) with a lot of modification.(to be honest, it is not.)
+> All these files are taken from ??????? with a lot of modification.(to be honest, it is not.)
